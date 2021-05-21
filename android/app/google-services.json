@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038512252491",
+    "project_id": "soryor-bedb2",
+    "storage_bucket": "soryor-bedb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038512252491:android:467066e3d81d2db37a0fce",
+        "android_client_info": {
+          "package_name": "com.example.soryor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038512252491-iohb16sheusnuvoeeeu4jto9efj3g2ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaE8vp1wiFgs-Kf8ZU_6F34oUk7zIEm8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038512252491-iohb16sheusnuvoeeeu4jto9efj3g2ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
